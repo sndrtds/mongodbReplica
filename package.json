@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-replica-species-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MongoDB replica set and Node.js CRUD lab for species records",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test:write-concern": "node scripts/write-concern.js",
+    "watch:election": "node scripts/watch-election.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
