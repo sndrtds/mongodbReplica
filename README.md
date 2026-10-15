@@ -1,0 +1,2 @@
+# mongodbReplica
+study purpose
