@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MongoDB Replica Set and Node.js Driver Integration Lab
 
 This project creates a three-member MongoDB replica set using Docker Compose and a Node.js CRUD API for a `species` collection.
@@ -214,3 +215,7 @@ docker compose down -v
 ```
 
 Only use `-v` if you are okay deleting the lab's persisted MongoDB data.
+=======
+# mongodbReplica
+study purpose
+>>>>>>> f0b1acf567c35b2310fa770abcfc4576f8e83401
